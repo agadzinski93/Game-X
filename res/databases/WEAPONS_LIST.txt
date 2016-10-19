@@ -1,0 +1,6 @@
+Awful Catapult_Catapult_30_1_20_1
+Basic Catapult_Catapult_50_1_15_1
+Excellent Catapult_Catapult_70_1_10_1
+Awful Cannon_Cannon_50_1_20_2
+Basic Cannon_Cannon_70_1_15_2
+Excellent Cannon_Cannon_90_1_10_3

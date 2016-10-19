@@ -1,0 +1,3 @@
+One of the new rookie pirates to emerge this year, Rose the Blair Slasher, is just an eye shot away and it seems like her anchor is stuck._Help Her?_b_0_Ignore Her?_i_0
+Some pirates from the rebel resistance are setting up a trap for any marines that dare go through their ships. They need medical supplies and food, what better way to acquire such items then to steal them. _Join Them?_i_1_Ignore Them?_b_1
+There is a large convoy and on this convey is the sigil of a golden dragon with blue wings, signifying that there are High Nobles aboard the ship. They are bound to have plenty of gold on that ship to steal, but it might also be very heavily guarded._Attack Them?_b_2_Ignore Them?_i_2
