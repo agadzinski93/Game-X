@@ -1,7 +1,5 @@
-# Game-X
+# Game- 'X' Marks the Spot
 
-Software Engineering Spring 2014
+Software Engineering Project
 
 First Group Project
-
-Completed May 21, 2014
